@@ -14,7 +14,7 @@
 <div align="center">
     ⚡Visit my website
     
-    https://lahiru-portfolio-lahiru-wanigasooriyas-projects.vercel.app/)
+    https://lahiru-portfolio-lahiru-wanigasooriyas-projects.vercel.app/
 </div>
 
 <br/>
